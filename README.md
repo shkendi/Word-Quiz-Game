@@ -102,7 +102,7 @@ A simple timed JavaScript quiz for aspiring web developers utilising JavaScript 
 
 ## 8. Screenshots and link to live demo
 
-### Deployed Link: 
+### Deployed Link: https://shkendi.github.io/Word-Quiz-Game/
 
   ![code quiz](assets/images/quiz1.png)
 
